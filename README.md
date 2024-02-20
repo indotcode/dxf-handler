@@ -7,7 +7,7 @@ Script computes:
 - perimeter (for every shape and summary)
 - width and height of bounding rectangle
 
-Script creates SVG file
+Script creates SVG file 
 
 ## Usage
 1. Create folders `svg` and `data` in folder where `dxf` file located.
