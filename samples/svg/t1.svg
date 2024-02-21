@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <svg id="stage" width="300" height="300" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <g transform="scale(1,-1) translate(0, -200)">
+        
+<path stroke="black" stroke-width="1" fill="lightcyan" fill-rule="evenodd" fill-opacity="1"   d="
+M20,140 L0,140 L0,200 L170,200 A30,30 0 0,0 200,170 L200,0 L0,0 L0,120 L20,120 L20,100 L40,100 L40,140 L19,140 z" >
+</path>
+
+<path stroke="black" stroke-width="1" fill="lightcyan" fill-rule="evenodd" fill-opacity="1"   d="
+M150,130 A20,20 0 0,1 190,130
+                    A20,20 0 0,1 150,130 z" >
+</path>
+      </g>
+    </svg>
+  

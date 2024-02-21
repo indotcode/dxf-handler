@@ -1,0 +1,19 @@
+{
+  "area": 38466.8583470577,
+  "perimeter": 1033.7875959474386,
+  "unknownEntities": {},
+  "errors": [],
+  "splineExists": false,
+  "shapes": [
+    {
+      "area": 38466.8583470577,
+      "perimeter": 908.1238898038469
+    },
+    {
+      "area": 1256.637061435917,
+      "perimeter": 125.66370614359172
+    }
+  ],
+  "width": 200,
+  "height": 200
+}
